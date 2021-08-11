@@ -1,4 +1,7 @@
 # Learning a Cost-Effective Annotation Policy for Question Answering
+
+Original Repo Located Here: https://github.com/bernhard2202/qa-annotation.git
+
 This is the PyTorch implementation of the EMNLP 2020 paper [Learning a Cost-Effective Annotation Policy for Question Answering](https://arxiv.org/abs/2010.03476).
 
 Authors: [Bernhard Kratzwald](https://bernhard2202.github.io/), [Stefan Feuerriegel](https://mis.ethz.ch/about/feuerriegel.html), and [Huan Sun](http://web.cse.ohio-state.edu/~sun.397/)
